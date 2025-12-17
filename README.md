@@ -78,7 +78,7 @@ I enjoy bridging the gap between **business requirements and clean technical sol
 
 ## 📊 GitHub Stats
 
-![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hjoshifonteva&show_icons=true&theme=dark)
+![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hjoshifonteva&show_icons=true&include_all_commits=true&count_private=true)
 
 ---
 
