@@ -76,9 +76,12 @@ I enjoy bridging the gap between **business requirements and clean technical sol
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Engineering Focus
 
-![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hjoshifonteva&show_icons=true&include_all_commits=true&count_private=true)
+- Salesforce platform architecture & integrations
+- Developer productivity tooling (IDE concepts, automation)
+- Scalable CRM solutions for enterprise teams
+- Payments, onboarding, and business process automation
 
 ---
 
