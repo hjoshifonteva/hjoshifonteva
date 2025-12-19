@@ -1,101 +1,66 @@
-# Hi 👋 I'm Himanshu Joshi
+# Hi, I’m Himanshu 👋
 
-**Technical Lead | Salesforce Platform Expert | Systems & Tooling Enthusiast**
+**Technical Lead · Salesforce Architect · Developer Tooling Enthusiast**
 
-I’m a Technical Lead at **Conscendo**, with a strong background in building **scalable enterprise solutions**, designing **developer tooling (IDEs, automation, integrations)**, and leading teams to deliver real business impact.
+I believe the best architectures start simple and scale by design, not by accident.
 
-I combine hands-on engineering with product and architectural thinking — from low-level Apex and Lightning components to large-scale integrations and customer-facing platforms.
+I build and lead **enterprise Salesforce platforms** with a strong focus on **clean architecture, integrations, and developer productivity**. My work spans **Apex & LWC**, large-scale **CRM systems**, **payment workflows**, and **internal tooling / IDE concepts** that help teams move faster without sacrificing quality.
 
-📧 **Email:** hjhimanshu4@gmail.com  
+📧 hjhimanshu4@gmail.com · 🔗 https://www.linkedin.com/in/himanshu-joshi-56143598/
+
+---
+
+## What I Do
+
+- Architect scalable Salesforce solutions with long-term maintainability in mind
+- Design and implement **payment, onboarding, and CRM automation** workflows
+- Build **reusable Apex & LWC frameworks** adopted across teams
+- Improve **developer experience** through tooling, automation, and better abstractions
+- Partner closely with **product and business teams** to deliver systems that scale
+
+---
+
+## Selected Impact
+
+- Led **Stripe payment integrations** powering subscription and finance use cases
+- Delivered an **AppExchange managed package** for e-commerce and event platforms
+- Reduced customer onboarding time by **40%** using Experience Cloud
+- Cut development effort by **30%** via reusable Lightning components
+- Led development of *Sales-Gallop*, a vehicle finance CRM, improving sales productivity by **25%**
+
+---
+
+## Technical Focus
+
+**Salesforce Platform**  
+Apex · Lightning Web Components · Experience Cloud · Integrations · AppExchange
+
+**Architecture & Systems**  
+System design · Scalable CRM platforms · Payments · Enterprise integrations
+
+**Tooling & DX**  
+JavaScript / TypeScript · IDE concepts · Automation · Developer workflows
+
+---
+
+## Projects & Experiments
+
+My GitHub contains focused work around:
+- Salesforce DX utilities and platform tooling
+- Developer productivity experiments and IDE workflows
+- JavaScript fundamentals and problem-solving
+
+Pinned repositories highlight the most relevant projects.
+
+---
+
+## Currently Interested In
+
+- Developer tooling and AI-assisted IDEs  
+- Salesforce platform architecture at scale  
+- Designing systems that reduce complexity as they grow  
+
+---
+
+📫 **Reach out:** hjhimanshu4@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/himanshu-joshi-56143598/
-
----
-
-## 🧠 About Me
-
-- 🧑‍💻 Technical Lead with a **Computer Science background**
-- 🏢 Professional experience across **freelance work, Amazon, and SaaS product teams**
-- ☁️ Deep expertise in **Salesforce (Admin + Platform Developer I certified)**
-- 🧩 Strong focus on **system design, integrations, and reusable architectures**
-- 🛠 Passionate about **developer productivity**, IDEs, and internal tools
-- 🧠 Competitive programming enthusiast who enjoys problem-solving at scale
-
-I enjoy bridging the gap between **business requirements and clean technical solutions**, while mentoring developers and improving engineering processes.
-
----
-
-## 🧾 Key Contributions & Impact
-
-- 💳 **Implemented Stripe payment integrations** for secure, scalable payment processing
-- 🛒 Built and supported an **AppExchange managed package** for e-commerce and event/subscription solutions
-- 🚀 **Led Experience Cloud customer onboarding**, reducing onboarding time by **40%**
-- 🧩 Developed **reusable Lightning components**, cutting development effort by **30%**
-- 📊 Designed a **single interactive payment calculator** using composable Lightning components
-- ⚙️ Built **Apex classes, triggers, and controllers** optimized for Lightning compatibility
-- 🤝 Worked closely with **business & product teams** to translate requirements into deliverable solutions
-- 🚗 Led end-to-end delivery of **Sales-Gallop**, a Vehicle Finance CRM, improving sales productivity by **25%**
-- 🔌 Expert in **Salesforce integrations**, delivering and deploying multiple custom integration solutions
-- 📈 Partnered with sales leadership to **analyze and optimize sales processes**
-
----
-
-## 🛠️ Tech Stack & Expertise
-
-### Salesforce & Backend
-- Apex (Triggers, Controllers, Async)
-- Lightning Web Components (LWC)
-- Experience Cloud
-- Salesforce Integrations (REST, external services)
-- AppExchange Managed Packages
-
-### Frontend & Tooling
-- JavaScript / TypeScript
-- LWC Architecture & Reusability
-- IDE & Developer Tooling concepts
-- Automation & DX improvements
-
-### Platforms & Practices
-- System Design & Architecture
-- Payments & Financial Workflows
-- CI/CD concepts
-- Git & Version Control
-- Agile / Cross-functional collaboration
-
----
-
-## 🚀 Selected Work & Repositories
-
-> Some of my GitHub repositories reflect experimentation, tooling, and learning around IDEs, JavaScript, Salesforce DX, and automation.
-
-- **DebugAssistant** – Developer-focused tooling to assist with debugging and understanding code behavior  
-- **sfdxpert** – Salesforce-related experiments and utilities  
-- **JavaScript refresher / assignments** – Core JS concepts & problem-solving exercises  
-- **IDE & tooling explorations** – Experiments around editor workflows and developer productivity
-
-*(Pinned repositories highlight the most relevant work.)*
-
----
-
-## 🧠 Engineering Focus
-
-- Salesforce platform architecture & integrations
-- Developer productivity tooling (IDE concepts, automation)
-- Scalable CRM solutions for enterprise teams
-- Payments, onboarding, and business process automation
-
----
-
-## 🤝 Let’s Connect
-
-I’m always interested in:
-- Developer tooling & IDE discussions
-- Salesforce architecture & integrations
-- Scaling engineering teams and platforms
-- Solving complex business problems with clean systems
-
-📧 **hjhimanshu4@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/himanshu-joshi-56143598/
-
----
-
-⭐ If you find my work interesting, feel free to explore my repositories or reach out.
